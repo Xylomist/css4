@@ -12,7 +12,7 @@
     height: 300px;
     width: 100%;
     box-shadow: 0px 0px 8px black;
-    color: white;
+
 }
 .navbar form{
     display: flex;
@@ -21,7 +21,7 @@
     position: sticky;
     top: 60px;
     object-fit: cover;
-    color: white;
+    
 
 
 }
